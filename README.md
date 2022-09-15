@@ -45,7 +45,7 @@ https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 ├── about.html // 关于我
 │—— pricing,html //小游戏
 ├── tour.html //我的荣誉
-├── 后台仪表盘 // 后台管理页面
+├── AdministerManage // 后台管理页面
 ├── css //样式表
 ├── demo1 //捕鱼达人源码
 ├── demo2 //俄罗斯方块源码
@@ -66,3 +66,7 @@ https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 
 1. 修改底部链接
 2. 修改手机端适配问题
+
+###########V1.0.2 版本内容更新
+
+1. 修复后台管理页面跳转
